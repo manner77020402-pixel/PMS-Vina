@@ -1,0 +1,6 @@
+{
+  "name": "PMS Vina",
+  "description": "산업재 및 자재 공급 MRO 전문 기업 PMS Vina의 다국어(KO, EN, VI, ZH) 공식 웹사이트 및 RFQ 견적/문의 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
